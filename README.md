@@ -1,8 +1,8 @@
 gulp-tslint
 ===========
 
-[![Build Status](https://travis-ci.org/panuhorsmalahti/gulp-tslint.svg?branch=master)](https://travis-ci.org/panuhorsmalahti/gulp-tslint)
-[![Dependency Status](https://david-dm.org/panuhorsmalahti/gulp-tslint.svg)](https://david-dm.org/panuhorsmalahti/gulp-tslint)
+[![Build Status](https://travis-ci.org/sportsbet/gulp-tslint.svg?branch=master)](https://travis-ci.org/sportsbet/gulp-tslint)
+[![Dependency Status](https://david-dm.org/sportsbet/gulp-tslint.svg)](https://david-dm.org/sportsbet/gulp-tslint)
 
 TypeScript linter plugin for Gulp.
 
